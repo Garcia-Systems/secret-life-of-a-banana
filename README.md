@@ -70,6 +70,5 @@ Begin with the complete, linked [table of contents](CONTENTS.md).
 - [`docs/VISUAL_STYLE.md`](docs/VISUAL_STYLE.md) defines the visual language for
   future illustration work.
 
-The chapter files are currently story briefs rather than finished prose. Future
-work can develop the book one chapter at a time while preserving a coherent
-journey from plant to plate—and beyond.
+The chapter files contain the complete journey, from plant to plate—and beyond.
+They can be read in order through the linked table of contents.
