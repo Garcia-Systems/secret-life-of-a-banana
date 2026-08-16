@@ -1,5 +1,7 @@
 # 4. Harvest Day
 
+![Chapter 4 — Harvest Day](../images/chapters/04.png)
+
 The harvest worker comes along the wet path beneath the leaves.
 
 Morning is only beginning. Rainwater still slips from the torn green canopy.

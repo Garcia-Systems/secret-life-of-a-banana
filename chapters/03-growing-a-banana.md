@@ -1,5 +1,7 @@
 # 3. Growing a Banana
 
+![Chapter 3 — Growing a Banana](../images/chapters/03.png)
+
 Beneath the plantation, morning begins in darkness.
 
 Fine roots thread between grains of warm, wet earth. Water left by the night's

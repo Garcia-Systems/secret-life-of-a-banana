@@ -1,5 +1,7 @@
 # 10. 69¢ a Pound
 
+![Chapter 10 — 69¢ a Pound](../images/chapters/10.png)
+
 The hand that reached into the display now hovers above a bunch of bright yellow
 bananas.
 

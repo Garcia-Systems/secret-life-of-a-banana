@@ -1,5 +1,7 @@
 # 7. The Port
 
+![Chapter 7 — The Port](../images/chapters/07.png)
+
 Sunrise finds the ship moving toward a wall of land.
 
 After days of ocean, the horizon has begun to acquire details. A gray line

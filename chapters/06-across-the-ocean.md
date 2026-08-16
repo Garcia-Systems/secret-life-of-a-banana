@@ -1,5 +1,7 @@
 # 6. Across the Ocean
 
+![Chapter 6 — Across the Ocean](../images/chapters/06.png)
+
 The container rises.
 
 For a moment it hangs beneath the gantry crane, a long white rectangle against

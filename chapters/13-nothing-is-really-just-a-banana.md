@@ -1,5 +1,7 @@
 # 13. Nothing Is Really Just a Banana
 
+![Chapter 13 — Nothing Is Really Just a Banana](../images/chapters/13.png)
+
 Morning.
 
 A kitchen.

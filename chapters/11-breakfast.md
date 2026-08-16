@@ -1,5 +1,7 @@
 # 11. Breakfast
 
+![Chapter 11 — Breakfast](../images/chapters/11.png)
+
 The banana rests inside a grocery bag.
 
 Above it are a carton of eggs, a loaf of bread, and the papery green tops of
