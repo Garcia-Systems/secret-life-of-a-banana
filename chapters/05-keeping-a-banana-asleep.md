@@ -1,5 +1,7 @@
 # 5. Keeping a Banana Asleep
 
+![Chapter 5 — Keeping a Banana Asleep](../images/chapters/05.png)
+
 A forklift carries the first pallet out of the packing house.
 
 Behind it, the wash water flashes in the tropical light. Ahead, the open doors

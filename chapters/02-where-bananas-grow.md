@@ -1,5 +1,7 @@
 # 2. Where Bananas Grow
 
+![Chapter 2 — Where Bananas Grow](../images/chapters/02.png)
+
 Dawn arrives first as a thinning of the dark.
 
 Mist hangs low between rows of banana plants. Beyond them, hills rise through

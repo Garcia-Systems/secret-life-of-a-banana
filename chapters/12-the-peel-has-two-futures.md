@@ -1,5 +1,7 @@
 # 12. The Peel Has Two Futures
 
+![Chapter 12 — The Peel Has Two Futures](../images/chapters/12.png)
+
 A banana peel sits on a breakfast plate.
 
 The oatmeal bowl is empty now. Morning light has moved across the table. A hand

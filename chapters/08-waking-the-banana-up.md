@@ -1,5 +1,7 @@
 # 8. Waking the Banana Up
 
+![Chapter 8 — Waking the Banana Up](../images/chapters/08.png)
+
 Before dawn, a refrigerated truck turns beneath the lights of a low industrial
 building.
 

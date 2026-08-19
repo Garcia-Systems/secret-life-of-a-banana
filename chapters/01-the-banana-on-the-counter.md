@@ -1,5 +1,7 @@
 # 1. The Banana on the Counter
 
+![Chapter 1 — The Banana on the Counter](../images/chapters/01.png)
+
 Morning light reaches across the kitchen counter and stops at a banana.
 
 It rests in a shallow bowl beside two apples, curved like a yellow comma. A few

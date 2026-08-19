@@ -1,5 +1,7 @@
 # 9. The Last Hundred Miles
 
+![Chapter 9 — The Last Hundred Miles](../images/chapters/09.png)
+
 Before sunrise, a truck pulls away from a low warehouse.
 
 The loading-dock lights shrink in its mirrors. Inside the trailer, palletized
